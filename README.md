@@ -27,7 +27,7 @@ A full-stack task management application built with React, Vite, FastAPI, and JW
 
 ## 📁 Structure
 
-
+```text
 task-manager-fullstack/
 ├── frontend/    # React + Vite
 ├── backend/     # FastAPI
@@ -48,7 +48,7 @@ uvicorn app.main:app --reload
 cd frontend
 npm install
 npm run dev
-```bash
+```
 
 🌐 Deployment
 Frontend: Vercel
