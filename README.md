@@ -48,6 +48,7 @@ uvicorn app.main:app --reload
 cd frontend
 npm install
 npm run dev
+```bash
 
 🌐 Deployment
 Frontend: Vercel
