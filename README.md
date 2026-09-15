@@ -27,7 +27,7 @@ A full-stack task management application built with React, Vite, FastAPI, and JW
 
 ## 📁 Structure
 
-```text
+
 task-manager-fullstack/
 ├── frontend/    # React + Vite
 ├── backend/     # FastAPI
@@ -36,7 +36,7 @@ task-manager-fullstack/
 
 ### Backend
 
-```bash
+
 cd backend
 python -m venv venv
 venv\Scripts\activate
