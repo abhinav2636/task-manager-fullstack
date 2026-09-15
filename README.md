@@ -32,3 +32,23 @@ task-manager-fullstack/
 ├── frontend/    # React + Vite
 ├── backend/     # FastAPI
 └── README.md
+## ⚙️ Run Locally
+
+### Backend
+
+```bash
+cd backend
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+### Frontend
+
+cd frontend
+npm install
+npm run dev
+
+👨‍💻 Author
+
+Abhinav Sharma
